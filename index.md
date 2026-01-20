@@ -293,7 +293,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to DCC-PO members
 </p>
 {% endcomment %}
 
@@ -410,7 +410,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 {% endif %}
 
 <hr/>
-
+<br>
 
 {% comment %}
 SETUP
