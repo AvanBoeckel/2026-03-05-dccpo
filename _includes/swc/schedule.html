@@ -7,15 +7,10 @@
       <tr> <td>09:30</td>  <td>Deel 1</td> </tr>
       <tr> <td>10:50</td>  <td>Korte pauze</td> </tr>
       <tr> <td>11:00</td>  <td>Deel 2</td> </tr>
-      {% if site.flavor == "r" %}
       <tr> <td>13:00</td>  <td>Lunch</td> </tr>
       <tr> <td>13:45</td>  <td>Deel 3</td> </tr>
       <tr> <td>15:15</td>  <td>Korte Pauze</td> </tr>
-      {% elsif site.flavor == "python" %}
       <tr> <td>15:30</td>  <td>Deel 4</td> </tr>
-      {% else %}
-      {% include warning-flavor.html %}
-      {% endif %}
       <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
