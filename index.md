@@ -10,8 +10,8 @@ humandate: "5 Maart, 2026"
 humantime: "09:30 - 17:00 CET"    
 startdate: 2026-03-05      
 enddate: 2026-03-05       
-instructor: ["Anne-Marie van Boeckel", "Ruud Steltenpool"] 
-helper: ["Marta Kargól", "Milou Huijsmans"]     
+instructor: ["Milou Huijsmans", "Ruud Steltenpool"] 
+helper: ["Marta Kargól"]     
 email: ["m.m.kargol@saxion.nl","a.van.boeckel@pl.hanze.nl"]   
 collaborative_notes: https://pad.carpentries.org/2026-03-05-DCCPO
 sign-up: 
